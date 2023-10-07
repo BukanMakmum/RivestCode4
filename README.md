@@ -1,4 +1,4 @@
-# RivestCode4
+# Rivest Code 4 12 bit
 Implementasi sederhana algoritma Rivest Code4 (RC4) menggunakan Python dan pustaka Tkinter untuk antarmuka pengguna grafis. Rivest Code4 (RC4) versi Education merupakan skrip yang dikembangkan untuk pembelajaran proses enkripsi dan dekripsi menggunakan RC4.
 
 

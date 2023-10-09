@@ -143,7 +143,7 @@ app_version = "Education 1.0.beta"
 window_width = 335
 window_height = 245
 root.geometry(f"{window_width}x{window_height}")
-root.configure(bg="#2596be")
+root.configure(bg="#87CEFA")
 
 root.resizable(False, False)
 

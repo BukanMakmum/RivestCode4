@@ -138,7 +138,7 @@ def on_leave(event):
 
 root = tk.Tk()
 root.title("Rivest Code 4")
-app_version = "Education 1.0.beta"
+app_version = "Education 1.0"
 
 window_width = 335
 window_height = 245
